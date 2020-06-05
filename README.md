@@ -9,7 +9,7 @@
 <br>GIT을 통해 수정 이전으로 돌아가는 것은 더욱 완벽한 개발자에게 아주 용이하다.
 <br>
 <h3>Git에 저장되는 버전의 워킹 플로우</h3>
-<img width="50%", img src="https://user-images.githubusercontent.com/66312541/83826196-452e4200-a716-11ea-85e2-00f8a4d8ae63.png">
+<br><img width="50%", img src="https://user-images.githubusercontent.com/66312541/83826196-452e4200-a716-11ea-85e2-00f8a4d8ae63.png">
 <br>
 <br><strong> 1. Directory (repository)</strong>:Git의 가장 핵심적인 파트, Commit을 통해 파일이나 폴더를 저장해 두는 곳
 <br>그런데 Git 저장소가 제공하는 좋은 점 중 하나는 파일이 변경 이력 별로 구분되어 저장한다는 것.
